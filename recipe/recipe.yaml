@@ -51,3 +51,4 @@ extra:
     - jtpio
     - dlqqq
     - andrii-i
+    - conda-forge/jupyter-ai
